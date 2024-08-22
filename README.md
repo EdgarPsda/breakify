@@ -68,4 +68,4 @@ This project is licensed under the MIT License.
 ## Links
 
 - [GitHub Repository](https://github.com/EdgarPsda/breakify)
-- [Live Demo](http://demo-link.com)
+- [Live Demo](https://edgarpsda.github.io/breakify/)
